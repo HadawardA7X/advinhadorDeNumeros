@@ -16,7 +16,7 @@ while (jogarDenovo)
 
     while (guess != num)
     {
-        Console.WriteLine("Advinhe o número secreto entre " + min + " - " + max + " : ");
+        Console.WriteLine("Advinhe o número secreto entre " + min + " - " + max + ": ");
         guess = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Advinhação: " + guess);
 
@@ -30,7 +30,7 @@ while (jogarDenovo)
         }
         guesses++;
     }
-    Console.WriteLine("Number: " + num);
+    Console.WriteLine("Número: " + num);
     Console.WriteLine("Você advinhou!");
     Console.WriteLine("Tentativas: " + guesses );
 
