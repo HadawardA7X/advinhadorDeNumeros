@@ -1,0 +1,14 @@
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\Calcular Hipotenusa.exe
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\Calcular Hipotenusa.deps.json
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\Calcular Hipotenusa.runtimeconfig.json
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\Calcular Hipotenusa.dll
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\Calcular Hipotenusa.pdb
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.AssemblyInfo.cs
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.dll
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\refint\Calcular Hipotenusa.dll
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.pdb
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\Calcular Hipotenusa.genruntimeconfig.cache
+C:\Users\Eduardo Nathan\source\repos\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\ref\Calcular Hipotenusa.dll
